@@ -1,3 +1,0 @@
-!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
-Solution	/Users/HankWang/Dropbox/Stuff/LeetCode/C++/2sum.cpp	/^class Solution {$/;"	c	language:C++	file:
-twoSum	/Users/HankWang/Dropbox/Stuff/LeetCode/C++/2sum.cpp	/^    vector<int> twoSum(vector<int>& nums, int target) {$/;"	f	language:C++	class:Solution
